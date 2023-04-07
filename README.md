@@ -1,1 +1,5 @@
 # conways
+
+
+
+print
