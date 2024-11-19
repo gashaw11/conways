@@ -5,7 +5,7 @@ print("the last python today")
 user = input("enter r,p, s or q to quit")
 while True:
     if user == 'q':
-        sys.exit()
+        sys.exit()#this is  comment
     elif user == 'r' or user == 'p' or user == 's':
         break
     randomNum = random.randint(1, 3)
